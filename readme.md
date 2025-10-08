@@ -3,7 +3,7 @@
 A collection of small learning projects and experiments in web development. These are bite-sized apps to practice frontend frameworks, state management, and simple backend APIs.
 
 ## Projects Overview
-
+ 
 This workspace contains three example projects included for reference and practice:
 
 - **`01-counter-practiseStateManagement`** — A small React + Vite app demonstrating state management with Jotai and Redux in two different branches.
